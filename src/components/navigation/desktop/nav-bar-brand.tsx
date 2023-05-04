@@ -7,8 +7,8 @@ export const NavBarBrand: React.FC = () => {
       <NavLink to="/">
         <img
           className="nav-bar__logo"
-          src="https://cdn.auth0.com/blog/hub/code-samples/hello-world/auth0-logo.svg"
-          alt="Auth0 shield logo"
+          src="https://res.cloudinary.com/monday-platform/image/upload/v1664909014/board_views_images/logos/1664909014502_95ee7001-f8ae-e0bd-56ee-3c77fdc2b4a7.png"
+          alt="Ulta Media logo"
           width="122"
           height="36"
         />
